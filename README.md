@@ -1,4 +1,4 @@
-#Minecraft Mechanic
+##Minecraft Mechanic
 Ten projekt to idealne rozwiązanie do automatycznego naprawiania najpopularniejszych i najczęstszych problemów z Minecraftem na komputerach z systemem Windows rozwijane hobbistycznie w wolnym czasie. Obecnie niniejszy projekt jest eksperymentem, który niedługo powinien wspierać inne wersje Minecrafta niż obecnie jedynie obsługiwany Minecraft Education Edition.
 
 ##Licencja
